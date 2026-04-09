@@ -1,0 +1,14 @@
+---
+title: "README.md"
+author: "Katherine Graddy"
+date: "2026-04-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Repository for testing out GitHub so that I become more comfortable in working with it. 
